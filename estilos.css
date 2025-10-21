@@ -9,10 +9,6 @@ body {
   font-family: Arial, sans-serif;
   line-height: 1.6;
   background-color: #FFC29B;
-    background-repeat: no-repeat; /* Para que la imagen no se repita */
-  background-size: cover; /* Para que la imagen cubra toda la pantalla */
-  background-position: center; /* Para centrar la imagen */
-  background-attachment: fixed; /* Para que la imagen sea fija al hacer scroll*/
   color: #640D5F;
   padding: 2rem;
 }
@@ -255,3 +251,4 @@ th {
   }
 
 }
+
